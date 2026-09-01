@@ -1,2 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
-bibedibabedi
+﻿Console.WriteLine("Hello Git! Ich lerne gerade Versionskontrolle.");
